@@ -1,9 +1,9 @@
 #pragma once
 #include "HephAudioShared.h"
 #include "Windows/Window.h"
-#include "../HephCommon/HeaderFiles/Vector.h"
-#include "../HephCommon/HeaderFiles/FloatBuffer.h"
-#include "../HephCommon/HeaderFiles/ComplexBuffer.h"
+#include "FloatBuffer.h"
+#include "ComplexBuffer.h"
+#include "Vector.h"
 
 namespace HephAudio
 {
